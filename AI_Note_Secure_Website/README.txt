@@ -17,4 +17,3 @@
 5. 回首頁重新部署一次 → 網站完成
 
 📢 這樣你的 API 金鑰就安全了，藏在後端不會被看到！
-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
